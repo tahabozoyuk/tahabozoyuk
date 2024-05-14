@@ -1,14 +1,5 @@
-### Hi there 👋
-
-<!--
-**tahabozoyuk/tahabozoyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on AWS - DevOps
-
 <h1 align="center">Hi 👋, I'm Taha</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate AWS DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahabozoyuk&label=Profile%20views&color=0e75b6&style=flat" alt="tahabozoyuk" /> </p>
 
@@ -28,5 +19,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahabozoyuk&show_icons=true&locale=en" alt="tahabozoyuk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahabozoyuk&" alt="tahabozoyuk" /></p>
-
 
