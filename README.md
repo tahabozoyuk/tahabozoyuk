@@ -1,12 +1,5 @@
-<h1 align="center">Hi 👋, I'm Taha</h1>
-<h3 align="center">A passionate AWS DevOps Engineer</h3>
-
-<!-- Image 1 with description -->
-<img src="https://www.credly.com/badges/c70acc12-86be-4114-92a3-65a9621dd8c4/public_url" alt="Description of Image 1">
-
-<!-- Image 2 with description -->
-<img src="https://www.credly.com/badges/1fba3dc0-3b15-4386-8088-444cb2767f15/public_url" alt="Description of Image 2">
-
+# Hi 👋, I'm Taha
+A passionate AWS DevOps Engineer
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahabozoyuk&label=Profile%20views&color=0e75b6&style=flat" alt="tahabozoyuk" /> </p>
